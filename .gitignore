@@ -1,0 +1,5 @@
+.venv/
+venv/
+.idea/
+token.py
+.DS_Store
