@@ -1,5 +1,7 @@
 .venv/
 venv/
 .idea/
-token.py
+settings.py
 .DS_Store
+__pycache__/
+*.pyc
